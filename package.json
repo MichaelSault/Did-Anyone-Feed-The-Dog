@@ -1,0 +1,20 @@
+{
+  "name": "did-anyone-feed-the-dog",
+  "version": "1.0.0",
+  "description": "A Web app that tracks the last time the dog was fed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelSault/Did-Anyone-Feed-The-Dog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelSault/Did-Anyone-Feed-The-Dog/issues"
+  },
+  "homepage": "https://github.com/MichaelSault/Did-Anyone-Feed-The-Dog#readme"
+}
